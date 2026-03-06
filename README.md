@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🦰 I am a BCA Student<br>🔭 I’m Currently Working On A Website Building/Optimizations<br>🤝 I’m Looking For Help With My Projects<br>🌱 I’m Currently Learning Web Development<br>💬 Ask me about Games, Cars, etc<br>⚡ Fun fact: I Love Tech 😁
+👨‍🦰 I am a BCA Student<br>🔭 I’m Currently Working On A Website Building/Optimizations<br>🤝 I’m Looking For Help With My Projects<br>🌱 I’m Currently Learning Web Development<br>💬 Ask me about Games, Cars, Tech etc<br>⚡ Fun fact: I Love Tech 😁
 
 
 ## 🌐 Socials:
